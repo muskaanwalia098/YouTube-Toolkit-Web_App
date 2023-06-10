@@ -19,6 +19,7 @@ from langchain.chains.conversation.memory import ConversationEntityMemory
 from langchain.chains.conversation.prompt import ENTITY_MEMORY_CONVERSATION_TEMPLATE
 from langchain.chains.question_answering import load_qa_chain
 from youtube_transcript_api import YouTubeTranscriptApi
+nltk.download('punkt')
 
 
 def intro():
