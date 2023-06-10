@@ -1,6 +1,7 @@
 # Importing dependencies
 import os
 
+import nltk
 from nltk import word_tokenize
 import re
 import pytube
