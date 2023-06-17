@@ -1,9 +1,15 @@
 # YouTube-Toolkit-Web_App
 
 ## Introduction
-Welcome to the YouTube Toolkit 🛠️🎥! This innovative and unique web application is designed to serve creators, viewers, and everyone who interacts with YouTube content. With power-packed features such as Video Summary Generator 📝🎥, Interactive Chat with Video 💬🎬, and Script Writer ✍️📜, it takes content creation and understanding to a whole new level.
+Welcome to the YouTube Toolkit 🛠️🎥! This innovative and unique web application is designed to serve creators, viewers, and everyone who interacts with YouTube content. With power-packed features such as 
 
-#### Link to the Web App:   https://muskaanwalia098-youtube-toolkit-web-app-app-ycrz3z.streamlit.app/
+- Video Summary Generator 📝🎥,
+- Interactive Chat with Video 💬🎬, and 
+- Script Writer ✍️📜
+    
+Taking content creation and understanding to a whole new level.
+
+#### Link to the [Web App](https://muskaanwalia098-youtube-toolkit-web-app-app-ycrz3z.streamlit.app/)
 
 ## How to Get Started
 #### Step 1: Clone the Repository
